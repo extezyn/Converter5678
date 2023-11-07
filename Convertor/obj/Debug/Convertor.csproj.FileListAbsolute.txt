@@ -1,0 +1,10 @@
+C:\Users\Roma\source\repos\Convertor\Convertor\obj\Debug\Convertor.csproj.AssemblyReference.cache
+C:\Users\Roma\source\repos\Convertor\Convertor\obj\Debug\Convertor.csproj.CoreCompileInputs.cache
+C:\Users\Roma\source\repos\Convertor\Convertor\bin\Debug\Convertor.exe.config
+C:\Users\Roma\source\repos\Convertor\Convertor\bin\Debug\Convertor.exe
+C:\Users\Roma\source\repos\Convertor\Convertor\bin\Debug\Convertor.pdb
+C:\Users\Roma\source\repos\Convertor\Convertor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roma\source\repos\Convertor\Convertor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Roma\source\repos\Convertor\Convertor\obj\Debug\Convertor.csproj.CopyComplete
+C:\Users\Roma\source\repos\Convertor\Convertor\obj\Debug\Convertor.exe
+C:\Users\Roma\source\repos\Convertor\Convertor\obj\Debug\Convertor.pdb
